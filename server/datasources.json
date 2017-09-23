@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "raspi": {
+    "host": "192.168.1.18",
+    "port": 27017,
+    "url": "",
+    "database": "lovemycar",
+    "password": "",
+    "name": "raspi",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
